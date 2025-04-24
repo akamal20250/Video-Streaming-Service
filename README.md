@@ -4,7 +4,7 @@ A demo video-streaming web application showcasing secure S3 + CloudFront deliver
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture-diagram.png)  
+![Architecture Diagram](docs/architecture_diagram.png)  
 *(Also available in PDF: `docs/architecture-diagram.pdf`)*
 
 1. **S3 Bucket** (`streamvideo-storage`)  
