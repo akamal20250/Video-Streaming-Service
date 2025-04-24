@@ -62,7 +62,7 @@ Video-Streaming-Service/
         ├── App.css
         ├── index.js
         └── index.css
-```plaintext
+
 
 docs/ contains your drawn architecture diagrams in PNG and PDF formats.
 Front-end/ holds the React application; src/ is where the key JavaScript and CSS files live.
